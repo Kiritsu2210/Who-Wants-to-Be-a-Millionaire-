@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/maxresdefault">
+
+    <!-- PieChart chiếm 90% chiều cao của parent -->
+    <com.github.mikephil.charting.charts.PieChart
+        android:id="@+id/pieChart"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/imgHome"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_weight="1"
+            android:src="@drawable/home_page"
+            android:layout_alignParentLeft="true"
+            android:layout_gravity="left|bottom"/>
+    </RelativeLayout>
+    <!-- Button chiếm 10% chiều cao của parent -->
+
+
+
+</LinearLayout>

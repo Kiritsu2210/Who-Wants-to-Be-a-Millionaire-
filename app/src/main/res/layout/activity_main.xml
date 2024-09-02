@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/maxresdefault"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="358dp"
+            android:layout_height="180dp"
+            android:src="@drawable/altp_logo" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerInParent="true">
+
+            <Button
+                android:id="@+id/btnPlay"
+                android:layout_width="200dp"
+                android:textColor="@color/white"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:text="Chơi" />
+
+            <Button
+                android:id="@+id/middleButton"
+                android:textColor="@color/white"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:text="Hướng dẫn" />
+
+            <Button
+                android:id="@+id/btnStatistic"
+                android:textColor="@color/white"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:text="Thống kê" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imgInfo"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:layout_alignParentBottom="true"
+            app:srcCompat="@drawable/info" />
+
+    </RelativeLayout>
+
+</LinearLayout>
