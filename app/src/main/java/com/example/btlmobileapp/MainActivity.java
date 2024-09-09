@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
         ImageView imgInfo = (ImageView) findViewById(R.id.imgInfo);
         imgInfo.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -55,6 +56,15 @@ public class MainActivity extends AppCompatActivity {
                     mediaPlayer = null;
                 }
                 Intent intent = new Intent(MainActivity.this, InfoActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        Button btnGuide = findViewById(R.id.btnGuide);
+        btnGuide.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, GuideActivity.class);
                 startActivity(intent);
             }
         });

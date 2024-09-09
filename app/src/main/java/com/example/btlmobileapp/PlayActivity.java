@@ -101,7 +101,7 @@ public class PlayActivity extends AppCompatActivity {
         imgChangeQues.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                imgChangeQues.setVisibility(View.GONE);
+                imgChangeQues.setVisibility(View.INVISIBLE);
                 fetchQuestions();
                 ShowQuestion();
             }
@@ -124,7 +124,7 @@ public class PlayActivity extends AppCompatActivity {
                         hiddenCount++;
                     }
                 }
-            img5050.setVisibility(View.GONE);
+            img5050.setVisibility(View.INVISIBLE);
             }
         });
 
@@ -143,7 +143,7 @@ public class PlayActivity extends AppCompatActivity {
                         buttons.get(i).setText(" ");
                     }
                 }
-                imgAskFriend.setVisibility(View.GONE);
+                imgAskFriend.setVisibility(View.INVISIBLE);
             }
         });
 
@@ -156,7 +156,7 @@ public class PlayActivity extends AppCompatActivity {
                         correctAnswerIndex
                 );
                 dialog.show();
-                imgGuestHelp.setVisibility(View.GONE);
+                imgGuestHelp.setVisibility(View.INVISIBLE);
 
             }
         });

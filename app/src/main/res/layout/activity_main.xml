@@ -39,7 +39,7 @@
                 android:text="Chơi" />
 
             <Button
-                android:id="@+id/middleButton"
+                android:id="@+id/btnGuide"
                 android:textColor="@color/white"
                 android:layout_width="200dp"
                 android:layout_height="wrap_content"
