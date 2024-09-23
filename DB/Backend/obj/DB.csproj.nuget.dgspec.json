@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DB Mobile App\\DB\\DB\\DB.csproj": {}
+    "E:\\BTLMobileApp\\DB\\DB\\DB.csproj": {}
   },
   "projects": {
-    "E:\\DB Mobile App\\DB\\DB\\DB.csproj": {
+    "E:\\BTLMobileApp\\DB\\DB\\DB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DB Mobile App\\DB\\DB\\DB.csproj",
+        "projectUniqueName": "E:\\BTLMobileApp\\DB\\DB\\DB.csproj",
         "projectName": "DB",
-        "projectPath": "E:\\DB Mobile App\\DB\\DB\\DB.csproj",
+        "projectPath": "E:\\BTLMobileApp\\DB\\DB\\DB.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\DB Mobile App\\DB\\DB\\obj\\",
+        "outputPath": "E:\\BTLMobileApp\\DB\\DB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
