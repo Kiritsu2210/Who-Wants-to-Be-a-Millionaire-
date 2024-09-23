@@ -35,5 +35,23 @@ namespace DB.Controllers
 
             return Ok(randomQuestion);
         }
+
+        [HttpPost]
+        [Route("Create")]
+
+        public async Task<ActionResult<Question>> Create(Question q)
+        {
+            var question = new Question();
+            question.ID = q.ID;
+            question.Nhom = q.Nhom;
+            question.NoiDung = q.NoiDung;
+            question.DapAnDung = q.DapAnDung;
+            question.DapAnSai1 = q.DapAnSai1;
+            question.DapAnSai2 = q.DapAnSai2;
+            question.DapAnSai3 = q.DapAnSai3;
+            await _context.Questions.AddAsync(question);
+            _context.SaveChanges();
+            return Ok(question);
+        }
     }
 }

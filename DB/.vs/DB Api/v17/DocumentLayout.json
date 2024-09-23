@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|solutionrelative:db\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|e:\\btlmobileapp\\db\\db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|solutionrelative:db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|e:\\db mobile app\\db\\db\\db.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|solutionrelative:db\\db.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+=======
+      "AbsoluteMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|e:\\btlmobileapp\\db\\db\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|solutionrelative:db\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> c4b7ccbfc249a0b9def7f7f292e30a85613f16e7
       "AbsoluteMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|e:\\btlmobileapp\\db\\db\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|solutionrelative:db\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|e:\\btlmobileapp\\db\\db\\db.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|solutionrelative:db\\db.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+>>>>>>> 267fdc051a0b14bf749eb5c4dd1ab70ed4e08c18
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|e:\\btlmobileapp\\db\\db\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +51,21 @@
       "RelativeMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|solutionrelative:db\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|e:\\btlmobileapp\\db\\db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|solutionrelative:db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+=======
+      "AbsoluteMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|e:\\btlmobileapp\\db\\db\\db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|solutionrelative:db\\db.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|e:\\db mobile app\\db\\db\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|solutionrelative:db\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|e:\\db mobile app\\db\\db\\db.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FE2A3787-93FA-4312-B39B-0378247F326A}|DB\\DB.csproj|solutionrelative:db\\db.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+>>>>>>> c4b7ccbfc249a0b9def7f7f292e30a85613f16e7
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +83,24 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
+=======
+              "DocumentIndex": 2,
+              "Title": "DB.http",
+              "DocumentMoniker": "E:\\DB Mobile App\\DB\\DB\\DB.http",
+              "RelativeDocumentMoniker": "DB\\DB.http",
+              "ToolTip": "E:\\DB Mobile App\\DB\\DB\\DB.http",
+              "RelativeToolTip": "DB\\DB.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-19T17:18:51.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+>>>>>>> c4b7ccbfc249a0b9def7f7f292e30a85613f16e7
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\BTLMobileApp\\DB\\DB\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "DB\\Properties\\launchSettings.json",
@@ -66,7 +112,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 8,
+>>>>>>> c4b7ccbfc249a0b9def7f7f292e30a85613f16e7
               "Title": "DB",
               "DocumentMoniker": "E:\\BTLMobileApp\\DB\\DB\\DB.csproj",
               "RelativeDocumentMoniker": "DB\\DB.csproj",
@@ -77,7 +127,13 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
+=======
+<<<<<<< HEAD
+=======
+              "DocumentIndex": 2,
+>>>>>>> c4b7ccbfc249a0b9def7f7f292e30a85613f16e7
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "E:\\BTLMobileApp\\DB\\DB\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "DB\\WeatherForecast.cs",
@@ -89,13 +145,18 @@
             },
             {
               "$type": "Document",
+>>>>>>> 267fdc051a0b14bf749eb5c4dd1ab70ed4e08c18
               "DocumentIndex": 0,
               "Title": "QuestionController.cs",
               "DocumentMoniker": "E:\\BTLMobileApp\\DB\\DB\\Controllers\\QuestionController.cs",
               "RelativeDocumentMoniker": "DB\\Controllers\\QuestionController.cs",
               "ToolTip": "E:\\BTLMobileApp\\DB\\DB\\Controllers\\QuestionController.cs",
               "RelativeToolTip": "DB\\Controllers\\QuestionController.cs",
+<<<<<<< HEAD
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+=======
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAHAAAA",
+>>>>>>> c4b7ccbfc249a0b9def7f7f292e30a85613f16e7
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T08:56:59.597Z",
               "EditorCaption": ""
@@ -108,13 +169,18 @@
               "RelativeDocumentMoniker": "DB\\Program.cs",
               "ToolTip": "E:\\BTLMobileApp\\DB\\DB\\Program.cs",
               "RelativeToolTip": "DB\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:53:33.835Z"
+              "WhenOpened": "2024-08-16T08:53:33.835Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 5,
+=======
+              "DocumentIndex": 6,
+>>>>>>> c4b7ccbfc249a0b9def7f7f292e30a85613f16e7
               "Title": "DB.csproj",
               "DocumentMoniker": "E:\\BTLMobileApp\\DB\\DB\\DB.csproj",
               "RelativeDocumentMoniker": "DB\\DB.csproj",
@@ -126,39 +192,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\BTLMobileApp\\DB\\DB\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DB\\ApplicationDbContext.cs",
               "ToolTip": "E:\\BTLMobileApp\\DB\\DB\\ApplicationDbContext.cs",
               "RelativeToolTip": "DB\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:47:32.973Z"
+              "WhenOpened": "2024-08-16T08:47:32.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Question.cs",
               "DocumentMoniker": "E:\\BTLMobileApp\\DB\\DB\\Models\\Question.cs",
               "RelativeDocumentMoniker": "DB\\Models\\Question.cs",
               "ToolTip": "E:\\BTLMobileApp\\DB\\DB\\Models\\Question.cs",
               "RelativeToolTip": "DB\\Models\\Question.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T08:45:59.882Z"
+              "WhenOpened": "2024-08-16T08:45:59.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 8,
+=======
+              "DocumentIndex": 3,
+>>>>>>> c4b7ccbfc249a0b9def7f7f292e30a85613f16e7
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\BTLMobileApp\\DB\\DB\\appsettings.json",
               "RelativeDocumentMoniker": "DB\\appsettings.json",
               "ToolTip": "E:\\BTLMobileApp\\DB\\DB\\appsettings.json",
               "RelativeToolTip": "DB\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-16T08:34:32.332Z"
+              "WhenOpened": "2024-08-16T08:34:32.332Z",
+              "EditorCaption": ""
             }
           ]
         }

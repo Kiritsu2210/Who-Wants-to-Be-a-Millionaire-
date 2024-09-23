@@ -68,6 +68,7 @@ E:\DB Mobile App\DB\DB\obj\Debug\net8.0\refint\DB.dll
 E:\DB Mobile App\DB\DB\obj\Debug\net8.0\DB.pdb
 E:\DB Mobile App\DB\DB\obj\Debug\net8.0\DB.genruntimeconfig.cache
 E:\DB Mobile App\DB\DB\obj\Debug\net8.0\ref\DB.dll
+<<<<<<< HEAD:DB/DB/obj/Debug/net8.0/DB.csproj.FileListAbsolute.txt
 E:\BTLMobileApp\DB\DB\bin\Debug\net8.0\appsettings.Development.json
 E:\BTLMobileApp\DB\DB\bin\Debug\net8.0\appsettings.json
 E:\BTLMobileApp\DB\DB\bin\Debug\net8.0\DB.exe
@@ -139,3 +140,6 @@ E:\BTLMobileApp\DB\DB\obj\Debug\net8.0\refint\DB.dll
 E:\BTLMobileApp\DB\DB\obj\Debug\net8.0\DB.pdb
 E:\BTLMobileApp\DB\DB\obj\Debug\net8.0\DB.genruntimeconfig.cache
 E:\BTLMobileApp\DB\DB\obj\Debug\net8.0\ref\DB.dll
+=======
+E:\DB Mobile App\DB\DB\obj\Debug\net8.0\DB.sourcelink.json
+>>>>>>> c4b7ccbfc249a0b9def7f7f292e30a85613f16e7:DB/Backend/obj/Debug/net8.0/DB.csproj.FileListAbsolute.txt

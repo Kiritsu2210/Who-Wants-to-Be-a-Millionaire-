@@ -14,7 +14,15 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD:DB/DB/obj/Debug/net8.0/DB.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+267fdc051a0b14bf749eb5c4dd1ab70ed4e08c18")]
+=======
+<<<<<<< HEAD:DB/DB/obj/Debug/net8.0/DB.AssemblyInfo.cs
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11df718628058d1e0fa3e4f5a73d6ff7bbd08684")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65b0eb67cd70fbaaece4a94066238df1debfcca1")]
+>>>>>>> 267fdc051a0b14bf749eb5c4dd1ab70ed4e08c18:DB/Backend/obj/Debug/net8.0/DB.AssemblyInfo.cs
+>>>>>>> c4b7ccbfc249a0b9def7f7f292e30a85613f16e7:DB/Backend/obj/Debug/net8.0/DB.AssemblyInfo.cs
 [assembly: System.Reflection.AssemblyProductAttribute("DB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
