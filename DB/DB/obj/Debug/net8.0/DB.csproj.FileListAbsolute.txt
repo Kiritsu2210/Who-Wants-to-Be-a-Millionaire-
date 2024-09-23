@@ -68,3 +68,4 @@ E:\DB Mobile App\DB\DB\obj\Debug\net8.0\refint\DB.dll
 E:\DB Mobile App\DB\DB\obj\Debug\net8.0\DB.pdb
 E:\DB Mobile App\DB\DB\obj\Debug\net8.0\DB.genruntimeconfig.cache
 E:\DB Mobile App\DB\DB\obj\Debug\net8.0\ref\DB.dll
+E:\DB Mobile App\DB\DB\obj\Debug\net8.0\DB.sourcelink.json
