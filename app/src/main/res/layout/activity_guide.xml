@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/maxresdefault"
+    tools:context=".GuideActivity">
+
+    <TextView
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+
+        android:gravity="center_vertical"
+        android:id="@+id/etxtGuide"
+        android:layout_width="376dp"
+        android:layout_height="496dp"
+        android:background="@drawable/borded"
+        android:textSize="22sp"
+        android:text="Người chơi phải trả lời 15 câu hỏi với độ khó tăng dần (không giới hạn thời gian). Mỗi câu hỏi có một mức tiền thưởng đi kèm, tăng dần theo thứ tự. \n\n Người chơi có quyền dừng cuộc chơi bất cứ lúc nào, khi đó họ sẽ được nhận số tiền tương ứng với câu hỏi đã trả lời đúng trước đó. Trả lời sai ở bất kỳ câu hỏi nào, người chơi sẽ ra về với giải thưởng ứng với mốc quan trọng gần nhất trước đó.Nếu vượt qua tất cả các câu hỏi, người chơi sẽ trở thành Triệu phú và nhận được tiền thưởng tương ứng với câu hỏi cuối cùng."
+        android:textColor="#F0D90A"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="121dp" />
+</LinearLayout>
